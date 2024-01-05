@@ -1,0 +1,15 @@
+2023-12-21 21:15:23,387 - DEBUG - This is a debug message
+2023-12-21 21:15:23,388 - INFO - This is an info message
+2023-12-21 21:15:23,393 - WARNING - This is a warning message
+2023-12-21 21:15:23,394 - ERROR - This is an error message
+2023-12-21 21:15:23,396 - CRITICAL - This is a critical message
+2023-12-21 21:16:04,873 - INFO - Program started.
+2023-12-21 21:16:04,882 - INFO - Starting my_function...
+2023-12-21 21:16:04,882 - INFO - Result: 5.0
+2023-12-21 21:16:04,884 - INFO - Finished my_function.
+2023-12-21 21:16:04,885 - INFO - Program finished.
+2023-12-21 21:16:24,913 - DEBUG - this is debug
+2023-12-21 21:16:42,192 - INFO - this is info
+2023-12-21 21:17:09,935 - WARNING - this is warning
+2023-12-21 21:17:31,814 - ERROR - This is error
+2023-12-21 21:17:57,968 - CRITICAL - this is critical
